@@ -1,34 +1,233 @@
-2018-03-14 17:18:03,317 INFO  [Log] --------------- Starting Automation Test Execution ------------------- 
-2018-03-14 17:18:03,333 INFO  [Log] Loaded Settings detail successfully. 
-2018-03-14 17:18:03,334 INFO  [Log] Loaded logs detail successfully. 
-2018-03-14 17:18:03,340 INFO  [Log] Report folder created successfully.Report Folder location=14Mar2018/Build_14Mar201817_18_03 
-2018-03-14 17:18:03,735 INFO  [Log] Created Report Excel successfully. Location=ReportExcel.xlsx 
-2018-03-14 17:18:03,736 INFO  [Log] Created Output file successfully. Location=OutputData.property 
-2018-03-14 17:18:04,961 INFO  [Log] Reading xlsx file: Resources\Excels\DataEngineMoneygram.xlsx 
-2018-03-14 17:18:38,758 INFO  [Log] Cleared the previous execution results from Test Cases excel sheet. 
-2018-03-14 17:18:38,759 INFO  [Log] Reading xlsx file: Resources\Excels\DataEngineMoneygram.xlsx 
-2018-03-14 17:18:39,137 INFO  [Log] Test Case First Row # :1 
-2018-03-14 17:18:39,138 INFO  [Log] Test Case Last Row # :3 
-2018-03-14 17:18:39,138 INFO  [Log] Reading xlsx file: Resources\Excels\TestDataMoneygram.xlsx 
-2018-03-14 17:18:39,318 INFO  [Log] Reading xlsx file: Resources\Excels\TestDataMoneygram.xlsx 
-2018-03-14 17:18:39,934 INFO  [Log] Data rows with Yes option=1 
-2018-03-14 17:18:39,934 INFO  [Log] **************************************************************************************** 
-2018-03-14 17:18:39,935 INFO  [Log] **************************************************************************************** 
-2018-03-14 17:18:39,935 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$  -S-T-A-R-T-   TC_60 Iteration data row=1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-03-14 17:18:39,935 INFO  [Log] **************************************************************************************** 
-2018-03-14 17:18:39,935 INFO  [Log] **************************************************************************************** 
-2018-03-14 17:18:39,938 INFO  [Log] Reading xlsx file: Resources\Excels\DataEngineMoneygram.xlsx 
-2018-03-14 17:18:41,525 INFO  [Log] Cleared the previous execution results from test case Test Case Flow 60. 
-2018-03-14 17:18:46,155 INFO  [Log] Chrome browser started 
-2018-03-14 17:18:47,537 INFO  [Log] Launch web application. Action=openBrowser, Object Name=, data= Chrome 
-2018-03-14 17:18:48,163 INFO  [Log] Comment test 
-2018-03-14 17:18:48,164 INFO  [Log] Test Step. Action=Test, Object Name=, data= Comment test 
-2018-03-14 17:18:49,459 INFO  [Log] Test Case TC_60 is PASS 
-2018-03-14 17:18:49,646 INFO  [Log] XXXXXXXXXXXXXXXXXXXXX  -E---N---D-   TC_60 Iteration data row=1        XXXXXXXXXXXXXXXXXXXXXXXXX 
-2018-03-14 17:18:49,647 INFO  [Log] X 
-2018-03-14 17:18:49,647 INFO  [Log] X 
-2018-03-14 17:18:49,648 INFO  [Log] X 
-2018-03-14 17:18:49,648 INFO  [Log] X 
-2018-03-14 17:18:50,701 INFO  [Log] Logs and Report Backup successfull. Location=Build_14Mar201817_18_03 
-2018-03-14 17:18:50,705 INFO  [Log] Converted Logs and Report to zip successfully. Location=14Mar2018/Build_14Mar201817_18_03.zip 
-2018-03-14 17:18:50,705 INFO  [Log] --------------- End Automation Test Execution ------------------- 
+2019-02-15 21:26:52,373 INFO  [Log] --------------- Starting Automation Test Execution ------------------- 
+2019-02-15 21:26:52,375 INFO  [Log] Loaded Settings detail successfully. 
+2019-02-15 21:26:52,376 INFO  [Log] Loaded logs detail successfully. 
+2019-02-15 21:26:52,383 INFO  [Log] Report folder created successfully.Report Folder location=15Feb2019/Build_15Feb201921_26_52 
+2019-02-15 21:26:52,740 INFO  [Log] Created Report Excel successfully. Location=ReportExcel.xlsx 
+2019-02-15 21:26:52,741 INFO  [Log] Created Output file successfully. Location=OutputData.property 
+2019-02-15 21:26:53,236 INFO  [Log] Reading xlsx file: Resources\Excels\TestCases.xlsx 
+2019-02-15 21:26:53,564 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,565 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,657 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,658 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,742 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,742 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,828 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,829 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,931 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:53,931 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,030 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,030 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,111 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,111 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,185 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,186 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,266 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,266 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,338 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,338 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,408 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,408 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,480 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,480 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,546 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,546 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,619 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,620 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,694 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,694 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,772 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,772 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,839 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,839 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:54,839 INFO  [Log] Cleared the previous execution results from Test Cases excel sheet. 
+2019-02-15 21:26:54,886 INFO  [Log] Reading xlsx file: Resources\Excels\TestCases.xlsx 
+2019-02-15 21:26:54,947 INFO  [Log] Test Case First Row # :1 
+2019-02-15 21:26:54,947 INFO  [Log] Test Case Last Row # :11 
+2019-02-15 21:26:54,947 INFO  [Log] Reading xlsx file: Resources\Excels\TestData.xlsx 
+2019-02-15 21:26:54,981 INFO  [Log] Reading xlsx file: Resources\Excels\TestData.xlsx 
+2019-02-15 21:26:55,067 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:55,067 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:55,112 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:55,112 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:55,113 INFO  [Log] Data rows with Yes option=1 
+2019-02-15 21:26:55,113 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:26:55,113 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:26:55,113 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$  -S-T-A-R-T-   TC_1 Iteration data row=1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-15 21:26:55,113 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:26:55,113 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:26:55,116 INFO  [Log] Reading xlsx file: Resources\Excels\TestCases.xlsx 
+2019-02-15 21:26:58,717 INFO  [Log] Chrome browser started 
+2019-02-15 21:26:58,733 INFO  [Log] Launch web application. Action=openBrowser, Object Name=, data= Chrome 
+2019-02-15 21:26:58,805 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:26:58,805 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:01,384 INFO  [Log] Navigate to website. Action=getUrl, Object Name=, data= http://10.11.14.79/ 
+2019-02-15 21:27:01,461 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:01,462 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:01,475 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:03,475 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:03,587 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:03,587 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:03,683 INFO  [Log] Clear the Username field. Action=clear, Object Name=userName, data=  
+2019-02-15 21:27:03,744 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:03,744 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:04,102 INFO  [Log] Enter the Username in the UserName field. Action=enterValue, Object Name=userName, data= admin@optimus.com 
+2019-02-15 21:27:04,164 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:04,164 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:04,254 INFO  [Log] Clear the Password field. Action=clear, Object Name=password, data=  
+2019-02-15 21:27:04,321 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:04,321 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:04,662 INFO  [Log] Enter the Password . Action=enterValue, Object Name=password, data= password@1234$! 
+2019-02-15 21:27:04,732 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:04,732 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:04,748 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:06,749 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:06,859 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:06,859 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:07,089 INFO  [Log] Click on Login button. Action=click, Object Name=//button[@class='ant-btn loginButton ant-btn-primary'], data=  
+2019-02-15 21:27:07,161 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:07,161 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:07,177 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:09,177 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:09,281 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,281 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,368 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,369 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,409 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,409 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,409 INFO  [Log] Test Case TC_1 is PASS 
+2019-02-15 21:27:09,453 INFO  [Log] XXXXXXXXXXXXXXXXXXXXX  -E---N---D-   TC_1 Iteration data row=1        XXXXXXXXXXXXXXXXXXXXXXXXX 
+2019-02-15 21:27:09,453 INFO  [Log] X 
+2019-02-15 21:27:09,453 INFO  [Log] X 
+2019-02-15 21:27:09,453 INFO  [Log] X 
+2019-02-15 21:27:09,453 INFO  [Log] X 
+2019-02-15 21:27:09,517 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,517 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,518 INFO  [Log] Reading xlsx file: Resources\Excels\TestCases.xlsx 
+2019-02-15 21:27:09,567 INFO  [Log] Test Case First Row # :1 
+2019-02-15 21:27:09,568 INFO  [Log] Test Case Last Row # :16 
+2019-02-15 21:27:09,568 INFO  [Log] Reading xlsx file: Resources\Excels\TestData.xlsx 
+2019-02-15 21:27:09,593 INFO  [Log] Reading xlsx file: Resources\Excels\TestData.xlsx 
+2019-02-15 21:27:09,677 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,677 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,719 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,719 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:09,719 INFO  [Log] Data rows with Yes option=1 
+2019-02-15 21:27:09,719 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:27:09,719 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:27:09,719 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$  -S-T-A-R-T-   TC_2 Iteration data row=1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-15 21:27:09,719 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:27:09,719 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:27:09,719 INFO  [Log] Reading xlsx file: Resources\Excels\TestCases.xlsx 
+2019-02-15 21:27:11,611 INFO  [Log] User clicks on Flow Design. Action=click, Object Name=//img[@class='featureIcons' and @alt='FlowDesign'], data=  
+2019-02-15 21:27:11,715 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:11,715 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:11,743 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:13,743 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:13,839 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:13,839 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:13,864 INFO  [Log] Page Title= Raptor 
+2019-02-15 21:27:13,868 INFO  [Log] User lands on flowDesign page. Action=getTitle, Object Name=, data=  
+2019-02-15 21:27:13,930 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:13,930 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:14,177 INFO  [Log] User clicks on Add Project Button. Action=click, Object Name=//div[@class='ant-card largeBtn ant-card-bordered'], data= LastName 
+2019-02-15 21:27:14,237 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:14,237 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:14,248 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:16,248 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:16,339 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:16,339 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:16,618 INFO  [Log] User Enters "<ProjectName>" . Action=enterValue, Object Name=//input[@id='title' and @class='ant-input'], data= dp test   
+2019-02-15 21:27:16,679 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:16,679 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:16,976 INFO  [Log] User Enters  "<ProjectDescription>". Action=enterValue, Object Name=//textarea[@id='description' and @class='ant-input'], data= project  
+2019-02-15 21:27:17,044 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:17,044 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:17,366 INFO  [Log] User clicks on create button to create project. Action=click, Object Name=//button[@class='ant-btn ant-btn-primary'], data=  
+2019-02-15 21:27:17,439 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:17,440 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:17,453 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:19,453 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:19,548 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:19,548 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:19,785 INFO  [Log] User clicks on add source. Action=click, Object Name=//button[@class='ant-btn largeBtn ant-btn-lg'], data=  
+2019-02-15 21:27:19,856 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:19,856 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:19,871 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:21,871 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:21,971 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:21,971 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:22,191 INFO  [Log] User enters "<Source_Name>". Action=enterValue, Object Name=//input[@id='title'][@placeholder='Enter Source Name'], data= amex 
+2019-02-15 21:27:22,257 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:22,257 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:22,271 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:24,272 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:24,363 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:24,363 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:24,770 INFO  [Log] User clicks on create button to create source. Action=click, Object Name=(//BUTTON[@type='button'])[4], data=  
+2019-02-15 21:27:24,830 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:24,830 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:24,841 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:26,841 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:26,924 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:26,924 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,039 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,039 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,078 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,078 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,078 INFO  [Log] Test Case TC_2 is PASS 
+2019-02-15 21:27:27,090 ERROR [Log] Class Utils | Method addNewSheet | Exception desc : The workbook already contains a sheet of this name 
+2019-02-15 21:27:27,090 INFO  [Log] XXXXXXXXXXXXXXXXXXXXX  -E---N---D-   TC_2 Iteration data row=1        XXXXXXXXXXXXXXXXXXXXXXXXX 
+2019-02-15 21:27:27,090 INFO  [Log] X 
+2019-02-15 21:27:27,090 INFO  [Log] X 
+2019-02-15 21:27:27,090 INFO  [Log] X 
+2019-02-15 21:27:27,090 INFO  [Log] X 
+2019-02-15 21:27:27,146 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,146 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,147 INFO  [Log] Reading xlsx file: Resources\Excels\TestCases.xlsx 
+2019-02-15 21:27:27,189 ERROR [Log] Class Utils | Method getDataFromXlsxSheet | Exception desc : null 
+2019-02-15 21:27:27,190 INFO  [Log] Test Case First Row # :1 
+2019-02-15 21:27:27,190 INFO  [Log] Test Case Last Row # :6 
+2019-02-15 21:27:27,190 INFO  [Log] Reading xlsx file: Resources\Excels\TestData.xlsx 
+2019-02-15 21:27:27,210 INFO  [Log] Reading xlsx file: Resources\Excels\TestData.xlsx 
+2019-02-15 21:27:27,279 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,279 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,279 INFO  [Log] Data rows with Yes option=1 
+2019-02-15 21:27:27,280 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:27:27,280 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:27:27,280 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$  -S-T-A-R-T-   TC_13 Iteration data row=1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-15 21:27:27,280 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:27:27,280 INFO  [Log] **************************************************************************************** 
+2019-02-15 21:27:27,280 INFO  [Log] Reading xlsx file: Resources\Excels\TestCases.xlsx 
+2019-02-15 21:27:27,636 INFO  [Log] User drags and drops validation element. Action=dragDropElementsToGrid, Object Name=(//*[name()='svg']/*[name()='g'][contains(@class,'joint-viewport')]/*[3])[1], data= 48,60 
+2019-02-15 21:27:27,694 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,694 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:27,704 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:29,704 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:29,806 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:29,806 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:30,088 INFO  [Log] User drags and drops transform element. Action=dragDropElementsToGrid, Object Name=(//*[name()='svg']/*[name()='g'][contains(@class,'joint-viewport')]/*[1])[1], data= 55,60 
+2019-02-15 21:27:30,145 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:30,145 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:30,155 INFO  [Log] Wait for 2 seconds 
+2019-02-15 21:27:32,155 INFO  [Log] Wait. Action=waitForSeconds, Object Name=, data= 2 
+2019-02-15 21:27:32,254 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,254 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,515 INFO  [Log] User drags and drops database element. Action=dragDropElementsToGrid, Object Name=(//*[name()='svg']/*[name()='g'][contains(@class,'joint-viewport')]/*[4])[1], data= 62,60 
+2019-02-15 21:27:32,589 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,589 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,648 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,648 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,689 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,689 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestData.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,689 INFO  [Log] Test Case TC_13 is PASS 
+2019-02-15 21:27:32,703 ERROR [Log] Class Utils | Method addNewSheet | Exception desc : The workbook already contains a sheet of this name 
+2019-02-15 21:27:32,704 INFO  [Log] XXXXXXXXXXXXXXXXXXXXX  -E---N---D-   TC_13 Iteration data row=1        XXXXXXXXXXXXXXXXXXXXXXXXX 
+2019-02-15 21:27:32,704 INFO  [Log] X 
+2019-02-15 21:27:32,704 INFO  [Log] X 
+2019-02-15 21:27:32,704 INFO  [Log] X 
+2019-02-15 21:27:32,704 INFO  [Log] X 
+2019-02-15 21:27:32,760 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,760 ERROR [Log] Class Utils | Method setCellDataValue | Exception desc : Resources\Excels\TestCases.xlsx (The process cannot access the file because it is being used by another process) 
+2019-02-15 21:27:32,928 INFO  [Log] Logs and Report Backup successfull. Location=Build_15Feb201921_26_52 
+2019-02-15 21:27:32,932 INFO  [Log] Converted Logs and Report to zip successfully. Location=15Feb2019/Build_15Feb201921_26_52.zip 
+2019-02-15 21:27:32,932 INFO  [Log] --------------- End Automation Test Execution ------------------- 
