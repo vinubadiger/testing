@@ -1,0 +1,34 @@
+2018-03-14 17:18:03,317 INFO  [Log] --------------- Starting Automation Test Execution ------------------- 
+2018-03-14 17:18:03,333 INFO  [Log] Loaded Settings detail successfully. 
+2018-03-14 17:18:03,334 INFO  [Log] Loaded logs detail successfully. 
+2018-03-14 17:18:03,340 INFO  [Log] Report folder created successfully.Report Folder location=14Mar2018/Build_14Mar201817_18_03 
+2018-03-14 17:18:03,735 INFO  [Log] Created Report Excel successfully. Location=ReportExcel.xlsx 
+2018-03-14 17:18:03,736 INFO  [Log] Created Output file successfully. Location=OutputData.property 
+2018-03-14 17:18:04,961 INFO  [Log] Reading xlsx file: Resources\Excels\DataEngineMoneygram.xlsx 
+2018-03-14 17:18:38,758 INFO  [Log] Cleared the previous execution results from Test Cases excel sheet. 
+2018-03-14 17:18:38,759 INFO  [Log] Reading xlsx file: Resources\Excels\DataEngineMoneygram.xlsx 
+2018-03-14 17:18:39,137 INFO  [Log] Test Case First Row # :1 
+2018-03-14 17:18:39,138 INFO  [Log] Test Case Last Row # :3 
+2018-03-14 17:18:39,138 INFO  [Log] Reading xlsx file: Resources\Excels\TestDataMoneygram.xlsx 
+2018-03-14 17:18:39,318 INFO  [Log] Reading xlsx file: Resources\Excels\TestDataMoneygram.xlsx 
+2018-03-14 17:18:39,934 INFO  [Log] Data rows with Yes option=1 
+2018-03-14 17:18:39,934 INFO  [Log] **************************************************************************************** 
+2018-03-14 17:18:39,935 INFO  [Log] **************************************************************************************** 
+2018-03-14 17:18:39,935 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$  -S-T-A-R-T-   TC_60 Iteration data row=1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-14 17:18:39,935 INFO  [Log] **************************************************************************************** 
+2018-03-14 17:18:39,935 INFO  [Log] **************************************************************************************** 
+2018-03-14 17:18:39,938 INFO  [Log] Reading xlsx file: Resources\Excels\DataEngineMoneygram.xlsx 
+2018-03-14 17:18:41,525 INFO  [Log] Cleared the previous execution results from test case Test Case Flow 60. 
+2018-03-14 17:18:46,155 INFO  [Log] Chrome browser started 
+2018-03-14 17:18:47,537 INFO  [Log] Launch web application. Action=openBrowser, Object Name=, data= Chrome 
+2018-03-14 17:18:48,163 INFO  [Log] Comment test 
+2018-03-14 17:18:48,164 INFO  [Log] Test Step. Action=Test, Object Name=, data= Comment test 
+2018-03-14 17:18:49,459 INFO  [Log] Test Case TC_60 is PASS 
+2018-03-14 17:18:49,646 INFO  [Log] XXXXXXXXXXXXXXXXXXXXX  -E---N---D-   TC_60 Iteration data row=1        XXXXXXXXXXXXXXXXXXXXXXXXX 
+2018-03-14 17:18:49,647 INFO  [Log] X 
+2018-03-14 17:18:49,647 INFO  [Log] X 
+2018-03-14 17:18:49,648 INFO  [Log] X 
+2018-03-14 17:18:49,648 INFO  [Log] X 
+2018-03-14 17:18:50,701 INFO  [Log] Logs and Report Backup successfull. Location=Build_14Mar201817_18_03 
+2018-03-14 17:18:50,705 INFO  [Log] Converted Logs and Report to zip successfully. Location=14Mar2018/Build_14Mar201817_18_03.zip 
+2018-03-14 17:18:50,705 INFO  [Log] --------------- End Automation Test Execution ------------------- 
